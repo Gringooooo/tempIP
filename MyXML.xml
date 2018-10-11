@@ -1,9 +1,19 @@
+##################################################################################################################
+<poster>Blue</poster>
+##################################################################################################################
+
+
 
 <dir>
-			<name>This is the name</name>
+			<name>Movies Test</name>
+			<link>https://raw.githubusercontent.com/Gringooooo/tempIP/master/live.m3u</link>
+			<thumbnail></thumbnail>
+			<summary>My Personnal fav movies</summary>
+</dir>
 
-
-
-
-
+<dir>
+			<name>TV</name>
+			<link>https://raw.githubusercontent.com/Gringooooo/tempIP/master/tv.xml</link>
+			<thumbnail></thumbnail>
+			<summary>My Personnal fav TV</summary>
 </dir>
